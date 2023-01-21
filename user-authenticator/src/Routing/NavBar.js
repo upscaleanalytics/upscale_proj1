@@ -4,7 +4,7 @@
   const NavBar = () => {
     return (
       <div className='shadow'>
-      <nav class="bg-green-700 md:flex flex-wrap  items-center px-8 py-4 mx-auto bg-white">
+      <nav class="bg-green-800 md:flex flex-wrap  items-center px-8 py-4 mx-auto bg-white">
     <div className='md:mr-20 py-3 md:py-0'>
       <h3 class="text-2xl font-medium text-white">LOGO</h3>
     </div>
